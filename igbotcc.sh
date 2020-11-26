@@ -22,21 +22,21 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-printf " \e[1;31m                                            ┌─┐┌─┐┬  ┬  ┌─┐┬ ┬┌─┐┬─┐   ╦╔═╗"
+printf " \e[1;31m                                           ┌─┐┌─┐┬  ┬  ┌─┐┬ ┬┌─┐┬─┐   ╦╔═╗"
 printf "\n"
-printf " \e[1;31m                                            ├┤ │ ││  │  │ ││││├┤ ├┬┘   ║║ ╦"
+printf " \e[1;31m                                           ├┤ │ ││  │  │ ││││├┤ ├┬┘   ║║ ╦"
 printf "\n"
-printf " \e[1;31m                                            └  └─┘┴─┘┴─┘└─┘└┴┘└─┘┴└─   ╩╚═╝"
+printf " \e[1;31m                                           └  └─┘┴─┘┴─┘└─┘└┴┘└─┘┴└─   ╩╚═╝"
 printf "\n"
 printf "\n"
 
  
-printf "                                         edited code by buffin form cyber kallan  "
+printf " \e[0;35m	                                      edited code by buffin form cyber kallan  "
 printf "\n"
 printf "\n"
-printf "   https://github.com/cyberkallan  "
+printf " \e[0;32m	 https://github.com/cyberkallan  "
 printf "\n"
-printf "   https://github.com/buffin  "
+printf " \e[0;32m	 https://github.com/buffin  "
 printf "\n"
 }
 
