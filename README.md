@@ -29,10 +29,6 @@ cd inshackle-bot
 bash inshackle.sh
 ```
 
-## by arjun arz
-
-![cb](https://user-images.githubusercontent.com/56509491/66774387-15100580-eedf-11e9-84ff-c0f396016bd5.jpg)
-
 ### Donate!
 Support the authors:
 ### Paypal:
