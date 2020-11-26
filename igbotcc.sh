@@ -31,7 +31,7 @@ printf "\n"
 printf "\n"
 
  
-printf " \e[0;35m	                                      edited code by buffin form cyber kallan  "
+printf " \e[0;35m	                                edited code by buffin form cyber kallan  "
 printf "\n"
 printf "\n"
 printf " \e[0;32m	 https://github.com/cyberkallan  "
